@@ -1,3 +1,7 @@
+# Author
+- [nuagenic](#https://github.com/nuagenic)
+- [designdefined](#https://github.com/designdefined)
+
 # Run Server
 
 - 루트 디렉토리에서 아래 명령어로 실행 가능합니다.
