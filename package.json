@@ -6,7 +6,7 @@
   "scripts": {
     "dev": "vite",
     "waffleroom": "vite --config vite.config.waffleRoom.ts",
-    "bottega": "vite --config vite.config.bottegaVeneta.ts",
+    "playground": "vite --config vite.config.playground.ts",
     "build": "vite build"
   },
   "keywords": [],
