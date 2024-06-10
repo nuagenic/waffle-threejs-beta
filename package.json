@@ -14,6 +14,7 @@
   "license": "ISC",
   "dependencies": {
     "lil-gui": "^0.19.2",
+    "rxjs": "^7.8.1",
     "three": "^0.165.0"
   },
   "devDependencies": {
