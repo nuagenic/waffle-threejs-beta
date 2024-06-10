@@ -2,7 +2,7 @@ import { defineConfig } from "vite";
 
 export default defineConfig({
   plugins: [],
-  root: "playground/src/",
+  root: "project/playground/src/",
   publicDir: "../static/",
   base: "./",
   server: {

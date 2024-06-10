@@ -1,7 +1,7 @@
 import { defineConfig } from "vite";
 
 export default defineConfig({
-  root: "waffle-room/src/",
+  root: "project/waffle-room/src/",
   publicDir: "../static/",
   base: "./",
   server: {

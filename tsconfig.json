@@ -23,6 +23,6 @@
     /* Path alias */
     "paths": {}
   },
-  "include": ["bottega-veneta/**/*.ts", "waffle-room/**/*.ts"],
+  "include": ["project/**/*.ts"],
   "references": [{ "path": "./tsconfig.node.json" }]
 }
