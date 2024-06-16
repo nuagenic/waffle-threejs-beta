@@ -7,6 +7,7 @@
     "dev": "vite",
     "waffleroom": "vite --config vite.config.waffleRoom.ts",
     "playground": "vite --config vite.config.playground.ts",
+    "scene-change": "vite --config vite.config.sceneChange.ts",
     "build": "vite build"
   },
   "keywords": [],
