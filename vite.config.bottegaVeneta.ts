@@ -1,7 +1,8 @@
 import { defineConfig } from "vite";
 
 export default defineConfig({
-  root: "bottega-veneta/src/",
+  plugins: [],
+  root: "project/playground/src/",
   publicDir: "../static/",
   base: "./",
   server: {
